@@ -23,7 +23,7 @@
 
 1. **Клонируйте репозиторий**:
     ```sh
-    git clone https://github.com/YanniszY/storagebot.git
+    git clone https://github.com/YanniszY/StorageTGbot.git
     ```
    
 2. **Установите зависимости**:
